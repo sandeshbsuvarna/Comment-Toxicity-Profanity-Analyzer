@@ -1,0 +1,27 @@
+{
+  "name": "comment-toxicity-analyzer",
+  "version": "1.0.0",
+  "description": "Comment Toxicity/Profanity Analyzer, will help help increase empathy, participation and quality in online conversation at scale.",
+  "main": "perspective.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "comment",
+    "toxicity",
+    "comment",
+    "profanity",
+    "check",
+    "profanity",
+    "check",
+    "toxicity",
+    "google",
+    "perspective"
+  ],
+  "author": "sandesh b suvarna",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^6.1.0",
+    "request": "^2.88.0"
+  }
+}
