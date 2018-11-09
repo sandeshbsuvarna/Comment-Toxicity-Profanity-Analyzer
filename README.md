@@ -26,7 +26,9 @@
 
 5.  **Make an AnalyzeComment request using above node.js codebase**
 
-    update your `.env` with API Key & run `node perspective.js`   
+    5a. update your `.env` with API Key
+    5b. run `npm install`
+    5c. run `node perspective.js`   
 
     Note: 0.1 is a lower score, where as 1.0 higher score.
     
