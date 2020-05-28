@@ -41,4 +41,4 @@ interesting.
 
 ## License
 
-The source code of Iconic Narada boilerplate is licensed under [MIT](https://opensource.org/licenses/MIT). 
+The source code is licensed under [MIT](https://opensource.org/licenses/MIT). 
